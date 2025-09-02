@@ -27,4 +27,4 @@ Um sistema simples de gerenciamento de livros feito em **Java**, utilizando **PO
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por [José Fernando](github.com/nandoodev) como prática de **Java** e **Programação Orientada a Objetos** da disciplia **POO** da universidade.
+Projeto desenvolvido por [José Fernando](https://github.com/nandoodev) como prática de **Java** e **Programação Orientada a Objetos** da disciplia **POO** da universidade.
